@@ -1,0 +1,81 @@
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    background-image: url("/MyProfile/rdd.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    
+}
+
+span{
+    color:white;
+    padding-right: 10px
+
+}
+
+label {
+
+    color:white;
+    padding-right: 10px;
+    font-size: smaller;
+}
+
+.container{
+    width: 500px; margin: auto;
+    background-color:rgb(184, 26, 26);
+    margin-top: 30px;
+    padding-top: 50px;
+    border-radius: 30px;
+    border: 2px solid white;
+    box-shadow: 5px 5px rgb(255, 0, 0);
+    -webkit-box-shadow: 14px 27px 30px 3px #f80000;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+}
+#box{
+    font-weight: bolder;
+    font-size: 32px;
+    margin: auto;
+    text-align:center;
+    padding-bottom: 30px;
+    color: white;
+
+}
+
+#image1{
+    
+     
+    width: 200px;
+    
+    image-resolution: 100%;
+    height: auto
+}
+
+#box1{
+    margin: auto;
+    width: 80%;
+}
+.box2{
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+
+}
+
+#image2{
+    margin: auto; width: 100%;
+    border-radius: 300px;
+    border: 2px solid rgb(46, 44, 44);
+    box-shadow: 2px 2px  rgb(46, 44, 44);
+    width: 200px;
+}
+
+#box3{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:20px;
+}
